@@ -16,7 +16,6 @@ Author Dr. Ildar Rakhmatulin, [LinkedIn](https://www.linkedin.com/in/ildar-rakhm
 ### Table of Contents
 
 ```text
-------------------------------------------------------------------------------------------
 1  Fundamentals of EEG ................................................................. 1  
    1.1 Basic Principles of EEG Signals ................................................. 1  
    1.2 Understanding Brain Signals: Motivation and Real-World Applications ............. 3  
