@@ -9,7 +9,7 @@
 How to upload scripts and the dataset and start work, in this YouTube [video](https://youtu.be/hspIDESzyeQ)    
 
 
-Issues, Questions, join to [PiEEG](https://pieeg.com/) Discord via the next [link](https://discord.gg/dCcUYKG9) and ask in Book branch   
+Issues, Questions, join to [PiEEG](https://pieeg.com/) Discord via the next [link](https://discord.gg/dCcUYKG9) and ask in the Book branch     
 Author Dr. Ildar Rakhmatulin, [LinkedIn](https://www.linkedin.com/in/ildar-rakhmatulin-262a66112/)       
 
 ### Table of Contents
