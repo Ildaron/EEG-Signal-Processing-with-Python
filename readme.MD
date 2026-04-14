@@ -16,7 +16,7 @@ Author Dr. Ildar Rakhmatulin, [LinkedIn](https://www.linkedin.com/in/ildar-rakhm
 ### Table of Contents
 
 ```text
---------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 1  Fundamentals of EEG ................................................................. 1  
    1.1 Basic Principles of EEG Signals ................................................. 1  
    1.2 Understanding Brain Signals: Motivation and Real-World Applications ............. 3  
@@ -28,7 +28,7 @@ Author Dr. Ildar Rakhmatulin, [LinkedIn](https://www.linkedin.com/in/ildar-rakhm
    1.8 Understanding EEG Noise: Sources and Challenges ................................. 10
    1.9 EEG Hardware: An Introduction to Recording Systems .............................. 11
 
-2  Getting Started with Signal Processing in Python ..................................... 15
+2  Getting Started with Signal Processing in Python .................................... 15
    2.1 Introduction to Signal Processing ............................................... 15
    2.2 Why Is Python Good for EEG? ..................................................... 16
        2.2.1 NumPy: Numerical Computation .............................................. 17
@@ -81,7 +81,7 @@ Author Dr. Ildar Rakhmatulin, [LinkedIn](https://www.linkedin.com/in/ildar-rakhm
    7.2 Electromagnetic Noise ........................................................... 74
    7.3 Current Stage in Science ........................................................ 76
    7.4 Independent Component Analysis (ICA) ............................................ 77
-   7.5 Canonical Correlation Analysis ................................................... 84
+   7.5 Canonical Correlation Analysis .................................................. 84
    7.6 Empirical Mode Decomposition (EMD) .............................................. 85
        7.6.1 K-Nearest Neighbors (KNN) to Detect Artifacts in EEG Data ................. 88
    7.7 Evaluation of Artifact Removal .................................................. 94
@@ -138,7 +138,7 @@ Author Dr. Ildar Rakhmatulin, [LinkedIn](https://www.linkedin.com/in/ildar-rakhm
    14.3 Gaming and Entertainment ....................................................... 183
    14.4 Smart Home Control Systems ..................................................... 184
    14.5 Large Language Models (LLM) and EEG ............................................ 185
-   14.6 Privacy and Data Security Concerns .............................................. 187
+   14.6 Privacy and Data Security Concerns ............................................. 187
 
 
 
