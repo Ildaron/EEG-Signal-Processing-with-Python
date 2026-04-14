@@ -9,10 +9,13 @@
 How to conenct data
 
 Content
---------------------------------------------------------------------------------------------  
-1  Fundamentals of EEG ................................................................. 1    
-   1.1 Basic Principles of EEG Signals ................................................. 1    
-   1.2 Understanding Brain Signals: Motivation and Real-World Applications ............. 3    
+### Table of Contents
+
+```text
+--------------------------------------------------------------------------------------------
+1  Fundamentals of EEG ................................................................. 1  
+   1.1 Basic Principles of EEG Signals ................................................. 1  
+   1.2 Understanding Brain Signals: Motivation and Real-World Applications ............. 3  
    1.3 Understanding EEG: What It Is and How It Works .................................. 4  
    1.4 EEG Signal Amplitudes: Are Microvolts Significant? .............................. 6  
    1.5 Measuring EEG Signals: Methods and Instrumentation .............................. 7  
