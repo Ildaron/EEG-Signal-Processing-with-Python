@@ -5,6 +5,9 @@
   <img src="https://github.com/Ildaron/EEG-Signal-Processing-with-Python/blob/main/supplementary_images/cover_image.jpg?raw=true" width="500">
 </p>
 
+
+How to conenct data
+
 Content   
 Fundamentals of EEG ......................................... 1
 
