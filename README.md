@@ -62,9 +62,6 @@ References .................................................... 13
 
 References .................................................... 24
 
-xi
-
-xii Contents
 
 3 EEG and Visualization ........................................ 25
 
@@ -96,9 +93,7 @@ xii Contents
 
 3.2.7 Popular Libraries for EEG ......................... 36
 
-3.2.8 Spatial Distribution of Brain Activity Over
-
-the Scalp ........................................ 37
+3.2.8 Spatial Distribution of Brain Activity Over The Scalp ...... 37
 
 3.3 Conclusion .............................................. 39
 
@@ -146,7 +141,6 @@ References .................................................... 60
 
 References .................................................... 71
 
-Contents xiii
 
 7 Navigating Noise: Strategies for EEG Artefact Removal .......... 73
 
@@ -162,9 +156,7 @@ Contents xiii
 
 7.6 Empirical Mode Decomposition (EMD) ..................... 85
 
-7.6.1 K-Nearest Neighbors (KNN) to Detect Artifacts
-
-in EEG Data ..................................... 88
+7.6.1 K-Nearest Neighbors (KNN) to Detect Artifacts in EEG Data ... 88
 
 7.7 Evaluation of Artifact Removal ............................. 94
 
@@ -229,8 +221,6 @@ References .................................................... 124
 11.6 Conclusion .............................................. 136
 
 References .................................................... 137
-
-xiv Contents
 
 12 Dataset Preprocessing ......................................... 139
 
