@@ -11,7 +11,7 @@ How to upload scripts and the dataset and start work, in this YouTube [video](ht
 
 Issues, Questions, join to [PiEEG](https://pieeg.com/) Discord via the next [link](https://discord.gg/dCcUYKG9) and ask in the Book branch     
    
-Author Dr. Ildar Rakhmatulin, [LinkedIn](https://www.linkedin.com/in/ildar-rakhmatulin-262a66112/)       
+Author - Dr. Ildar Rakhmatulin, [LinkedIn](https://www.linkedin.com/in/ildar-rakhmatulin-262a66112/)       
 
 ### Table of Contents
 
@@ -138,6 +138,3 @@ Author Dr. Ildar Rakhmatulin, [LinkedIn](https://www.linkedin.com/in/ildar-rakhm
    14.4 Smart Home Control Systems ..................................................... 184
    14.5 Large Language Models (LLM) and EEG ............................................ 185
    14.6 Privacy and Data Security Concerns ............................................. 187
-
-
-
