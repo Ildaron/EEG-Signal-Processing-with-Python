@@ -6,7 +6,7 @@
 </p>
 
 
-How to upload scripts and the dataset and start work, in this YouTube [video](https://youtu.be/hspIDESzyeQ)    
+How to upload scripts and the dataset and start work, manual in this YouTube [video](https://youtu.be/hspIDESzyeQ)    
 
 
 Issues, Questions, join to [PiEEG](https://pieeg.com/) Discord via the next [link](https://discord.gg/dCcUYKG9) and ask in the Book branch     
