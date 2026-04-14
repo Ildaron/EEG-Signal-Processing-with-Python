@@ -6,13 +6,14 @@
 </p>
 
 
-How to conenct data
+How to upload scripts and the dataset and start work, in this YouTube [video](https://youtu.be/hspIDESzyeQ)    
 
-Content
-### Table of Contents
 
 Issues, Questions, join to [PiEEG](https://pieeg.com/) Discord, Channel Book, via the next [link](https://discord.gg/dCcUYKG9)  
 Author Dr. Ildar Rakhmatulin, [LinkedIn](https://www.linkedin.com/in/ildar-rakhmatulin-262a66112/)     
+
+Content
+### Table of Contents
 
 ```text
 --------------------------------------------------------------------------------------------
