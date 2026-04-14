@@ -10,9 +10,7 @@ Fundamentals of EEG ......................................... 1
 
 1.1 Basic Principles of EEG Signals ............................ 1
 
-1.2 Understanding Brain Signals: Motivation and Real-World
-
-Applications ............................................. 3
+1.2 Understanding Brain Signals: Motivation and Real-World Applications .......... 3
 
 1.3 Understanding EEG: What It Is and How It Works ............ 4
 
@@ -29,10 +27,6 @@ and Considerations ....................................... 9
 1.8 Understanding EEG Noise: Sources and Challenges ........... 10
 
 1.9 EEG Hardware: An Introduction to Recording Systems ........ 11
-
-1.10 Conclusion .............................................. 11
-
-References .................................................... 13
 
 2 Getting Started with Signal Processing in Python ................. 15
 
