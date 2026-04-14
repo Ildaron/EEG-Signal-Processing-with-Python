@@ -1,7 +1,10 @@
 # EEG-Signal-Processing-with-Python
 
-Content 
 
+  ![alt tag](https://github.com/Ildaron/EEG-Signal-Processing-with-Python/blob/main/supplementary_images/cover_image.jpg "general view")  
+
+
+Content 
 Fundamentals of EEG ......................................... 1
 
 1.1 Basic Principles of EEG Signals ............................ 1
