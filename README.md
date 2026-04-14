@@ -1,3 +1,294 @@
 # EEG-Signal-Processing-with-Python
 
 Scripts will be added by April 28. By the time the printed book goes on sale  
+
+
+Content 
+
+Fundamentals of EEG ......................................... 1
+
+1.1 Basic Principles of EEG Signals ............................ 1
+
+1.2 Understanding Brain Signals: Motivation and Real-World
+
+Applications ............................................. 3
+
+1.3 Understanding EEG: What It Is and How It Works ............ 4
+
+1.4 EEG Signal Amplitudes: Are Microvolts Significant? .......... 6
+
+1.5 Measuring EEG Signals: Methods and Instrumentation ........ 7
+
+1.6 Electrode Placement in EEG: Locations and Systems .......... 8
+
+1.7 How Many EEG Channels Are Needed? Factors
+
+and Considerations ....................................... 9
+
+1.8 Understanding EEG Noise: Sources and Challenges ........... 10
+
+1.9 EEG Hardware: An Introduction to Recording Systems ........ 11
+
+1.10 Conclusion .............................................. 11
+
+References .................................................... 13
+
+2 Getting Started with Signal Processing in Python ................. 15
+
+2.1 Introduction to Signal Processing ........................... 15
+
+2.2 Why Is Python Good for EEG? ............................. 16
+
+2.2.1 NumPy: Numerical Computation .................... 17
+
+2.2.2 SciPy: Signal Processing Library .................... 18
+
+2.2.3 MNE-Python: A Specialized Library for EEG ......... 19
+
+2.3 Connect to Python Environment ............................ 20
+
+2.3.1 Getting Started with Google Colab .................. 20
+
+2.3.2 Organize the Files ................................ 21
+
+2.3.3 Launch in Google Colab ........................... 21
+
+2.3.4 Launch in Google Colab ........................... 22
+
+2.3.5 Connect the Dataset ............................... 23
+
+2.3.6 Conclusion ...................................... 23
+
+References .................................................... 24
+
+xi
+
+xii Contents
+
+3 EEG and Visualization ........................................ 25
+
+3.1 Introduction to Sources ................................... 25
+
+3.1.1 Scripts .......................................... 26
+
+3.1.2 Dataset .......................................... 26
+
+3.1.3 Environment ..................................... 26
+
+3.1.4 Import Dataset ................................... 27
+
+3.1.5 Dataset Details ................................... 28
+
+3.2 Start Work with the Dataset ................................ 29
+
+3.2.1 Convert Data from Digital Format to EEG ............ 29
+
+3.2.2 Data Visualization ................................ 30
+
+3.2.3 What Is Raw Data ................................ 31
+
+3.2.4 Heatmap of EEG ................................. 32
+
+3.2.5 3D Graph for Data ................................ 32
+
+3.2.6 Correlation Matrix ................................ 34
+
+3.2.7 Popular Libraries for EEG ......................... 36
+
+3.2.8 Spatial Distribution of Brain Activity Over
+
+the Scalp ........................................ 37
+
+3.3 Conclusion .............................................. 39
+
+References .................................................... 39
+
+4 Bandpass Filter ............................................... 41
+
+4.1 How Much Data and Channels Do We Need .................. 41
+
+4.2 Typical Data Length Required for Algorithms ................ 42
+
+4.3 Band-Pass Filter Implementation ........................... 43
+
+4.3.1 High-Pass Filter .................................. 44
+
+4.3.2 Low-Pass Filter ................................... 45
+
+4.3.3 Band-Pass Filter .................................. 46
+
+4.4 Conclusion .............................................. 49
+
+References .................................................... 50
+
+5 Smoothing Filters ............................................. 51
+
+5.1 Average Filter ........................................... 51
+
+5.2 Gaussian Filter ........................................... 54
+
+5.3 Median Filter ............................................ 56
+
+5.4 Conclusion .............................................. 59
+
+References .................................................... 60
+
+6 Frequency Analysis ............................................ 61
+
+6.1 Fast Fourier Transform (FFT) .............................. 61
+
+6.2 Wavelet Transform ....................................... 64
+
+6.3 Hilbert Transform ........................................ 66
+
+6.4 Conclusion .............................................. 70
+
+References .................................................... 71
+
+Contents xiii
+
+7 Navigating Noise: Strategies for EEG Artefact Removal .......... 73
+
+7.1 Biological Artefacts ...................................... 73
+
+7.2 Electromagnetic Noise .................................... 74
+
+7.3 Current Stage in Science .................................. 76
+
+7.4 Independent Component Analysis (ICA) ..................... 77
+
+7.5 Canonical Correlation Analysis ............................. 84
+
+7.6 Empirical Mode Decomposition (EMD) ..................... 85
+
+7.6.1 K-Nearest Neighbors (KNN) to Detect Artifacts
+
+in EEG Data ..................................... 88
+
+7.7 Evaluation of Artifact Removal ............................. 94
+
+7.7.1 Evaluation via Fast Fourier Transform (FFT) ......... 94
+
+7.7.2 Evaluation via Signal-to-Noise Ratio (SNR) .......... 96
+
+7.8 Conclusion .............................................. 97
+
+References .................................................... 98
+
+8 Real-Time Signal Processing in EEG ............................ 101
+
+8.1 Introduction ............................................. 101
+
+8.2 How It Works ............................................ 102
+
+8.3 Conclusion .............................................. 107
+
+References .................................................... 107
+
+9 Application Without Machine Learning ......................... 109
+
+9.1 Introduction ............................................. 109
+
+9.2 Entropy for Stress Control ................................. 109
+
+9.3 Power Spectral Density (PSD) ............................. 112
+
+9.4 Conclusion .............................................. 114
+
+References .................................................... 115
+
+10 Machine Learning: EEG Perspective ............................ 117
+
+10.1 Introduction to ML ....................................... 117
+
+10.2 Why Use Machine Learning for EEG ....................... 118
+
+10.3 Introduction to Machine Learning for EEG ................... 119
+
+10.4 Challenges and Considerations ............................. 121
+
+10.5 Applications ............................................. 122
+
+10.6 Conclusion .............................................. 123
+
+References .................................................... 124
+
+11 Dataset for Machine Learning .................................. 127
+
+11.1 Introduction ............................................. 127
+
+11.2 Dataset Format ........................................... 128
+
+11.3 Visualization of the Dataset ................................ 130
+
+11.4 Correlation Matrix ........................................ 133
+
+11.5 Cap Visualization ........................................ 135
+
+11.6 Conclusion .............................................. 136
+
+References .................................................... 137
+
+xiv Contents
+
+12 Dataset Preprocessing ......................................... 139
+
+12.1 Prepare Dataset .......................................... 139
+
+12.2 Channel Selection ........................................ 141
+
+12.2.1 Signal-to-Noise Ratio (SNR) ....................... 142
+
+12.2.2 Preprocessing EEG Data Recursive Feature
+
+Elimination ...................................... 144
+
+12.2.3 Pearson Correlation ............................... 146
+
+12.2.4 Feature Importance via Machine Learning ............ 147
+
+12.3 Conclusion .............................................. 151
+
+References .................................................... 152
+
+13 ML and EEG ................................................. 153
+
+13.1 Standardize and Normalize Data ............................ 153
+
+13.2 Hot Coding .............................................. 155
+
+13.3 Take Power for ML ....................................... 156
+
+13.4 Logistic Regression ....................................... 160
+
+13.5 Hyperparameters ......................................... 163
+
+13.5.1 Grid Search and Random Search .................... 163
+
+13.6 k-Nearest Neighbors (KNN) ............................... 169
+
+13.7 Support Vector Machines (SVM) ........................... 172
+
+13.8 Random Forests .......................................... 176
+
+13.9 Conclusion .............................................. 178
+
+References .................................................... 179
+
+14 Case Studies and Applications .................................. 181
+
+14.1 Brain-Computer Interfaces: Now and Future ................. 181
+
+14.2 Consumer Applications ................................... 182
+
+14.3 Gaming and Entertainment ................................ 183
+
+14.4 Smart Home Control Systems .............................. 184
+
+14.5 Large Language Models (LLM) and EEG .................... 185
+
+14.6 Privacy and Data Security Concerns ......................... 187
+
+14.7 Conclusion .............................................. 188
+
+References .................................................... 189
