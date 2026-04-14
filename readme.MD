@@ -139,6 +139,6 @@ Author Dr. Ildar Rakhmatulin, [LinkedIn](https://www.linkedin.com/in/ildar-rakhm
    14.4 Smart Home Control Systems ..................................................... 184
    14.5 Large Language Models (LLM) and EEG ............................................ 185
    14.6 Privacy and Data Security Concerns .............................................. 187
---------------------------------------------------------------------------------------------
+
 
 
