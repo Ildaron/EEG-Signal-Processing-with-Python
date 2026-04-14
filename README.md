@@ -1,8 +1,9 @@
 # EEG-Signal-Processing-with-Python
 
 
-  ![alt tag](https://github.com/Ildaron/EEG-Signal-Processing-with-Python/blob/main/supplementary_images/cover_image.jpg "general view")  
-
+<p align="center">
+  <img src="https://github.com/Ildaron/EEG-Signal-Processing-with-Python/blob/main/supplementary_images/cover_image.jpg?raw=true" width="750">
+</p>
 
 Content 
 Fundamentals of EEG ......................................... 1
