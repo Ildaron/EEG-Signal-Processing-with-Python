@@ -11,6 +11,9 @@ How to conenct data
 Content
 ### Table of Contents
 
+Issues, Questions, join to [PiEEG](https://pieeg.com/) Discord, Channel Book, via the next [link](https://discord.gg/dCcUYKG9)  
+Author Dr. Ildar Rakhmatulin, [LinkedIn](https://www.linkedin.com/in/ildar-rakhmatulin-262a66112/)     
+
 ```text
 --------------------------------------------------------------------------------------------
 1  Fundamentals of EEG ................................................................. 1  
@@ -136,9 +139,5 @@ Content
    14.5 Large Language Models (LLM) and EEG ............................................ 185
    14.6 Privacy and Data Security Concerns .............................................. 187
 --------------------------------------------------------------------------------------------
-
-Issues, Questions, join to [PiEEG](https://pieeg.com/) Discord, Channel Book, via the next [link](https://discord.gg/dCcUYKG9)  
-Author Dr. Ildar Rakhmatulin, [LinkedIn](https://www.linkedin.com/in/ildar-rakhmatulin-262a66112/)   
-
 
 
