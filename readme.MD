@@ -1,7 +1,9 @@
 # EEG-Signal-Processing-with-Python
 Repository for scripts for the book. 
+EEG signal processing with Python. 
 
-To cite. 
+
+To cite please use the next format. 
 Rakhmatulin, I., & Naik, G. R. (2026). EEG signal processing with Python: Machine learning techniques for brain-computer interface development. Springer. https://doi.org/10.1007/978-981-95-4177-5
 
 <p align="center">
