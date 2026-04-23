@@ -6,7 +6,7 @@ To cite
 Rakhmatulin, I., & Naik, G. R. (2026). EEG signal processing with Python: Machine learning techniques for brain-computer interface development. Springer. https://doi.org/10.1007/978-981-95-4177-5  
 
 <p align="center">
-  <img src="https://github.com/Ildaron/EEG-Signal-Processing-with-Python/blob/main/supplementary_images/cover_image.jpg?raw=true" width="500">
+  <img src="https://github.com/Ildaron/EEG-Signal-Processing-with-Python/blob/main/supplementary_images/cover_image.jpg?raw=true" width="200">
 </p>
 
 
