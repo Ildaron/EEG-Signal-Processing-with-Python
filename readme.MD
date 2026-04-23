@@ -143,5 +143,4 @@ Author - Dr. Ildar Rakhmatulin, [LinkedIn](https://www.linkedin.com/in/ildar-rak
    14.5 Large Language Models (LLM) and EEG ............................................ 185
    14.6 Privacy and Data Security Concerns ............................................. 187
 
-
-Contact Ildar Rakhmatulin, [LinkedIn](https://www.linkedin.com/in/ildar-rakhmatulin-262a66112/)   
+ 
