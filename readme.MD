@@ -1,9 +1,10 @@
 # EEG-Signal-Processing-with-Python
 Repository for scripts for the book - [EEG signal processing with Python](https://link.springer.com/book/10.1007/978-981-95-4177-5)   
 
-
 To cite   
 Rakhmatulin, I., & Naik, G. R. (2026). EEG signal processing with Python: Machine learning techniques for brain-computer interface development. Springer. https://doi.org/10.1007/978-981-95-4177-5  
+
+PiEEG - Low-Cost Brain Computer Interface [Website](https://pieeg.com/) and [GitHub](https://github.com/pieeg-club)      
 
 <p align="center">
   <img src="https://github.com/Ildaron/EEG-Signal-Processing-with-Python/blob/main/supplementary_images/cover_image.jpg?raw=true" width="200">
