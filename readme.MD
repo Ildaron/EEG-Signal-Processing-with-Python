@@ -1,4 +1,5 @@
-# EEG-Signal-Processing-with-Python
+# EEG-Signal-Processing-with-Python  
+Springer Book  
 Repository for scripts for the book - [EEG signal processing with Python](https://link.springer.com/book/10.1007/978-981-95-4177-5)   
 
 To cite   
