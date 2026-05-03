@@ -11,9 +11,7 @@ PiEEG - Low-Cost Brain Computer Interface [Website](https://pieeg.com/) and [Git
   <img src="https://github.com/Ildaron/EEG-Signal-Processing-with-Python/blob/main/supplementary_images/cover_image.jpg?raw=true" width="200">
 </p>
 
-
 How to upload scripts and the dataset and start work, manual in this YouTube [video](https://youtu.be/hspIDESzyeQ)    
-
 
 Issues, Questions, join to [PiEEG](https://pieeg.com/) Discord via the next [link](https://discord.gg/dCcUYKG9) and ask in the Book branch     
    
