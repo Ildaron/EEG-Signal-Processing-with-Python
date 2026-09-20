@@ -13,7 +13,7 @@ PiEEG - Low-Cost Brain Computer Interface [Website](https://pieeg.com/) and [Git
 
 How to upload scripts and the dataset and start work: manual in this YouTube [video](https://youtu.be/hspIDESzyeQ)    
 
-Issues, Questions, join to [PiEEG](https://pieeg.com/) Discord via the next [link](https://discord.gg/dCcUYKG9) and ask in the Book branch     
+Issues, Questions, join to [PiEEG](https://pieeg.com/) Discord via the next [link](https://discord.gg/arZX3W58R) and ask in the Book branch     
    
 Scripts Author - Dr. Ildar Rakhmatulin, [LinkedIn](https://www.linkedin.com/in/ildar-rakhmatulin-262a66112/)       
 
