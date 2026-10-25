@@ -2,9 +2,6 @@
 Publisher Springer     
 Repository for MIT scripts for the book - [EEG signal processing with Python](https://link.springer.com/book/10.1007/978-981-95-4177-5)       
   
-To cite   
-Rakhmatulin, I., & Naik, G. R. (2026). EEG signal processing with Python: Machine learning techniques for brain-computer interface development. Springer. https://doi.org/10.1007/978-981-95-4177-5  
-
 PiEEG - Low-Cost Brain Computer Interface [Website](https://pieeg.com/) and [GitHub](https://github.com/pieeg-club)      
 
 <p align="center">
@@ -142,5 +139,9 @@ Scripts Author - Dr. Ildar Rakhmatulin, Founder of [PiEEG](https://pieeg.com/), 
    14.4 Smart Home Control Systems ..................................................... 184
    14.5 Large Language Models (LLM) and EEG ............................................ 185
    14.6 Privacy and Data Security Concerns ............................................. 187
+
+
+To cite   
+Rakhmatulin, I., & Naik, G. R. (2026). EEG signal processing with Python: Machine learning techniques for brain-computer interface development. Springer. https://doi.org/10.1007/978-981-95-4177-5  
 
  
