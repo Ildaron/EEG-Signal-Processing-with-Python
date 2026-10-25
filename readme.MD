@@ -2,8 +2,6 @@
 Publisher Springer     
 Repository for MIT scripts for the book - [EEG signal processing with Python](https://link.springer.com/book/10.1007/978-981-95-4177-5)       
   
-PiEEG - Low-Cost Brain Computer Interface [Website](https://pieeg.com/) and [GitHub](https://github.com/pieeg-club)      
-
 <p align="center">
   <img src="https://github.com/Ildaron/EEG-Signal-Processing-with-Python/blob/main/supplementary_images/cover_image.jpg?raw=true" width="200">
 </p>
@@ -12,7 +10,7 @@ How to upload scripts and the dataset and start work: manual in this YouTube [vi
 
 Issues, Questions, join to [PiEEG](https://pieeg.com/) Discord via the next [link](https://discord.gg/arZX3W58R) and ask in the Book branch     
    
-Scripts Author - Dr. Ildar Rakhmatulin, Founder of [PiEEG](https://pieeg.com/), [LinkedIn](https://www.linkedin.com/in/ildar-rakhmatulin-262a66112/)       
+Scripts Author - Dr. Ildar Rakhmatulin, Founder of Low-Cost Brain Computer Interface company [PiEEG](https://pieeg.com/), [LinkedIn](https://www.linkedin.com/in/ildar-rakhmatulin-262a66112/)       
 
 ### Table of Contents
 
@@ -143,5 +141,4 @@ Scripts Author - Dr. Ildar Rakhmatulin, Founder of [PiEEG](https://pieeg.com/), 
 
 To cite   
 Rakhmatulin, I., & Naik, G. R. (2026). EEG signal processing with Python: Machine learning techniques for brain-computer interface development. Springer. https://doi.org/10.1007/978-981-95-4177-5  
-
  
