@@ -1,4 +1,7 @@
 # EEG-Signal-Processing-with-Python  
+
+Scripts Author - Dr. Ildar Rakhmatulin, Founder of Low-Cost Brain Computer Interface company [PiEEG](https://pieeg.com/), [LinkedIn](https://www.linkedin.com/in/ildar-rakhmatulin-262a66112/)       
+
 Publisher Springer     
 Repository for MIT scripts for the book - [EEG signal processing with Python](https://link.springer.com/book/10.1007/978-981-95-4177-5)       
   
@@ -10,7 +13,6 @@ How to upload scripts and the dataset and start work: manual in this YouTube [vi
 
 Issues, Questions, join to [PiEEG](https://pieeg.com/) Discord via the next [link](https://discord.gg/arZX3W58R) and ask in the Book branch     
    
-Scripts Author - Dr. Ildar Rakhmatulin, Founder of Low-Cost Brain Computer Interface company [PiEEG](https://pieeg.com/), [LinkedIn](https://www.linkedin.com/in/ildar-rakhmatulin-262a66112/)       
 
 ### Table of Contents
 
