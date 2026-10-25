@@ -15,7 +15,7 @@ How to upload scripts and the dataset and start work: manual in this YouTube [vi
 
 Issues, Questions, join to [PiEEG](https://pieeg.com/) Discord via the next [link](https://discord.gg/arZX3W58R) and ask in the Book branch     
    
-Scripts Author - Dr. Ildar Rakhmatulin, [LinkedIn](https://www.linkedin.com/in/ildar-rakhmatulin-262a66112/)       
+Scripts Author - Dr. Ildar Rakhmatulin, Founder of [PiEEG](https://pieeg.com/), [LinkedIn](https://www.linkedin.com/in/ildar-rakhmatulin-262a66112/)       
 
 ### Table of Contents
 
